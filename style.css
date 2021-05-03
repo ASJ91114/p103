@@ -1,0 +1,23 @@
+#bg {
+    background-image: url("https://lh3.googleusercontent.com/proxy/8eOLXLoSMDg1aEScl8up3oogjRkVY1-DuU7ALC6ZLKjBVeGmmJE0up2Y2V5Kv_gprL9L5Q5q580susu39GmtJA5tgtZv7Dc");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera {
+    border: 2px dashed rgb(17, 0, 255);
+    width: 350px;
+    height: 300px;
+}
+
+.my_family,
+#result_object_name,
+#result_object_accuracy {
+    color: rgb(139, 0, 0);
+}
